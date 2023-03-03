@@ -118,7 +118,7 @@ and copy/paste the resulting table into this README file below this line.
 
 <!-- add the table here -->
 | len(xs) | timsort | merge_sorted | quicksort |
---------------------------------------------------
+|----------|--------|------------|---------------|
 | 2**0 | 4.54e-06 | 2.60e-06 | 2.48e-06 |
 
 | 2**1 | 2.37e-06 | 8.64e-06 | 1.03e-05 |
